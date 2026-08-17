@@ -1,0 +1,12 @@
+{
+  "name": "Iron Ledger",
+  "short_name": "Iron Ledger",
+  "description": "4-Day Upper / Lower home gym workout tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#161617",
+  "theme_color": "#161617",
+  "icons": []
+}
